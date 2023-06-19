@@ -13,4 +13,4 @@ Datapack made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcappe
 Snowcapped: https://snowcapped.jacobsjo.eu
 Jochen Jacobs' Github: https://github.com/jacobsjo
 
-Strongly recommend trying it out if you are a datapack create, and show your support to him if you use this datapack!
+Strongly recommend trying it out if you want to mess around with worldgen, and show your support to him if you use this datapack!
