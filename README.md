@@ -8,9 +8,8 @@ After (with Datapack):
 ![frozen_river_after](https://github.com/Quidvio/Taiga-Biome-Water-Fix/assets/105707614/9b77ded4-5aa7-4728-a9a7-54bc0e8c4773)
 
 
-Datapack made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped! 
+This Datapack was made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped!
 
-Snowcapped: https://snowcapped.jacobsjo.eu
-Jochen Jacobs' Github: https://github.com/jacobsjo
+Snowcapped: https://snowcapped.jacobsjo.eu Jochen Jacobs' Github: https://github.com/jacobsjo
 
 Strongly recommend trying it out if you want to mess around with worldgen, and show your support to him if you use this datapack!
