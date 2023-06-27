@@ -1,6 +1,9 @@
 # Taiga-Biome-Water-Fix  
 
-Datapack for Minecraft 1.20 that fixes MC-239444, which causes Water Biomes near certain Taiga biomes to be frozen, while the Taiga is not.
+Datapack for Minecraft 1.20 that fixes MC-239444.  
+This causes coastal/water biomes adjacent to some Taiga biomes to be frozen variants, while the Taiga is not.  
+
+___
 
 ## Before: 
 ![frozen_river_before](https://github.com/Quidvio/Taiga-Biome-Water-Fix/assets/105707614/fef0b4b4-75d2-4799-b61c-0300e42bcfad)
